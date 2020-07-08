@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Menu.cpp
+C:\Users\steve\Downloads\Assignment_2(Number_Of_Ones)\Assignment_2(Number_Of_Ones)\Assignment_1\Menu.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Number.cpp
+  Score.cpp
+  Source.cpp
+C:\Users\steve\Downloads\Assignment_2(Number_Of_Ones)\Assignment_2(Number_Of_Ones)\Assignment_1\Menu.cpp(49,6): warning C4101: 'randNum': unreferenced local variable
+C:\Users\steve\Downloads\Assignment_2(Number_Of_Ones)\Assignment_2(Number_Of_Ones)\Assignment_1\Source.cpp(51,7): warning C4101: 'input2': unreferenced local variable
+  Generating Code...
+C:\Users\steve\Downloads\Assignment_2(Number_Of_Ones)\Assignment_2(Number_Of_Ones)\Assignment_1\Source.cpp(52,7): warning C4101: 'input3': unreferenced local variable
+C:\Users\steve\Downloads\Assignment_2(Number_Of_Ones)\Assignment_2(Number_Of_Ones)\Assignment_1\Menu.cpp(86): warning C4715: 'Menu::m_PlayScreen': not all control paths return a value
+C:\Users\steve\Downloads\Assignment_2(Number_Of_Ones)\Assignment_2(Number_Of_Ones)\Assignment_1\Menu.cpp(143): warning C4715: 'Menu::m_Quit': not all control paths return a value
+  Assignment_1.vcxproj -> C:\Users\steve\Downloads\Assignment_2(Number_Of_Ones)\Assignment_2(Number_Of_Ones)\Debug\Assignment_2(Number Of Ones).exe
